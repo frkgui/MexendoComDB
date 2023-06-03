@@ -10,7 +10,7 @@ public class AlunoApp {
         Aluno aluno = new Aluno(conn);
 
         String alunos[][] = {
-                {"Michael","Nutrição"},
+                {"Michael","Nutri   ção"},
                 {"Diego Souza", "ADS"},
                 {"Michelle Obama", "Fisioterapia"},
                 {"Thiago Veigh", "Direito"}};
